@@ -44,5 +44,5 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 	<plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
-	
+	<access origin="http://www.nasalab.net" subdomains="true" />
 </widget>
